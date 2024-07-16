@@ -1,5 +1,5 @@
 # dnnf_go
-Force-field to simulate aqueous graphene oxide (GO) and aqueous graphene interfaces with near DFT level accuracy
+Force-field to simulate aqueous graphene oxide (GO) and aqueous graphene interfaces with DFT level accuracy
 
 # Required software
 1) Install deepmd-kit with lammps. GPU version is recommended. https://docs.deepmodeling.com/projects/deepmd/en/master/getting-started/install.html
